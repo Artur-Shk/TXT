@@ -1,0 +1,4 @@
+name:Shkurat A.S.,
+age: 32,
+pets: 3,
+future salary: 2500
